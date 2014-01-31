@@ -1,3 +1,5 @@
+![alt text](http://nutch.apache.org/images/nutch_logo_tm.gif "Logo")
+
 Apache Nutch
 =======
 
