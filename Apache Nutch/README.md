@@ -1,7 +1,7 @@
 Apache Nutch
 =======
 
-```html
+```HTML
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
@@ -10,40 +10,7 @@ Apache Nutch
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="robots" content="index,follow">
 
-<title>FrontPage - Nutch Wiki</title>
-<script type="text/javascript" src="/wiki/common/js/common.js"></script>
 
-<script type="text/javascript">
-<!--
-var search_hint = "Search";
-//-->
-</script>
-
-
-<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/wiki/modernized/css/common.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="/wiki/modernized/css/screen.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="/wiki/modernized/css/print.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="/wiki/modernized/css/projection.css">
-
-<!-- css only for MS IE6/IE7 browsers -->
-<!--[if lt IE 8]>
-   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/wiki/modernized/css/msie.css">
-<![endif]-->
-
-
-<link rel="alternate" title="Nutch Wiki Recent Changes" href="/nutch/FrontPage?action=rss_rc&amp;unique=1&amp;ddiffs=1" type="application/rss+xml">
-
-
-<link rel="Start" href="/nutch/FrontPage">
-<link rel="Alternate" title="Wiki Markup" href="/nutch/FrontPage?action=raw">
-<link rel="Alternate" media="print" title="Print View" href="/nutch/FrontPage?action=print">
-<link rel="Appendix" title="Hadoop-Nutch 0.8 Tutorial 22-07-06 &lt;Navoni Roberto&gt;" href="/nutch/FrontPage?action=AttachFile&amp;do=view&amp;target=Hadoop-Nutch+0.8+Tutorial+22-07-06+%3CNavoni+Roberto%3E">
-<link rel="Appendix" title="nutch_logo_medium.gif" href="/nutch/FrontPage?action=AttachFile&amp;do=view&amp;target=nutch_logo_medium.gif">
-<link rel="Search" href="/nutch/FindPage">
-<link rel="Index" href="/nutch/TitleIndex">
-<link rel="Glossary" href="/nutch/WordIndex">
-<link rel="Help" href="/nutch/HelpOnFormatting">
-</head>
 
 <body  lang="en" dir="ltr">
 
